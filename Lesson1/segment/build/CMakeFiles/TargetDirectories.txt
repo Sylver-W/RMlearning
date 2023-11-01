@@ -1,3 +1,0 @@
-/home/illusion/Robomaster/Lesson1/segment/build/CMakeFiles/Task.dir
-/home/illusion/Robomaster/Lesson1/segment/build/CMakeFiles/edit_cache.dir
-/home/illusion/Robomaster/Lesson1/segment/build/CMakeFiles/rebuild_cache.dir
