@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "58051691cd20ba9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e10ca5b6c551f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24467361c33ca7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lesson 1 task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "361ee05e0dc96775",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31a7ecf1194492c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de63ba2edd049b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1547f791434c487d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c09f8ad76b702dca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25dcdde0fdd11962",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe583eb51bb48ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f35efaa2f52be77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lesson 1 task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3681b8391616c208",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lesson 1 task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b0051a4e6e714db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8e5069c151cdf6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lesson 1 task.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "24467361c33ca7b6",
+  "lastOpenFiles": [
+    "home/illusion/图片/截图/2.png.md",
+    "lesson 1 task.md",
+    "home/illusion/图片/截图",
+    "home/illusion/图片",
+    "home/illusion",
+    "home",
+    "Lesson 1、Linux环境与CMake.md",
+    "aaa.md",
+    "home/illusion/图片/截图/1.png",
+    "home/illusion1.png",
+    "未命名.md",
+    "lllll.md",
+    "未命名.canvas",
+    "segment.zip"
+  ]
+}
